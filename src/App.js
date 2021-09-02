@@ -13,7 +13,7 @@ import Header from './components/Header.jsx';
 import Form from './components/Form.jsx'
 
 
-const API_key = "bdb277763de63517b868dd84efd5ee99";
+const API_key = "YOUR KEY GOES HERE";
 
 class App extends React.Component{
 
